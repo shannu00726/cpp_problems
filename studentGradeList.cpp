@@ -22,7 +22,7 @@ for(list<int>::iterator it = scores.begin(); it != scores.end(); it++){
 }
 
 passing.sort();
-failing.sort();
+failing.sort(); 
     cout<< "Passing Grades List"<<endl;
 
  for(list<int>::iterator it = passing.begin(); it!= passing.end(); it++){
